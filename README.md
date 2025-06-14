@@ -1,5 +1,17 @@
-Har opparbeidet solid kunnskap innen økonomisk analyse, finans, regnskap og programmering gjennom både studier og prosjekter. Erfaring med verktøy som Python, R, Julia og Excel, og anvendelse av disse i praktiske caser som selskaps- og markedsanalyser.
+# 👋 Hei, og velkommen til profilen min!
 
-Arbeidsmetoden kjennetegnes av struktur, nøyaktighet og evne til å samarbeide godt med andre. Tidligere erfaring fra både kundeservice, valg og eksamensavvikling har gitt god innsikt i å håndtere ansvar, følge prosedyrer og levere under press.
+Jeg har opparbeidet solid kunnskap innen økonomisk analyse, finans, regnskap og programmering – gjennom både studier og praktiske prosjekter. Med erfaring i verktøy som **Python**, **R**, **Julia** og **Excel**, har jeg jobbet med alt fra selskapsanalyser til markedsanalyser, og brenner for å bruke data til å forstå og forbedre beslutningsprosesser.
 
-Motivert for nye utfordringer innen økonomi, dataanalyse eller teknologi – med et sterkt ønske om å bidra og utvikle seg i en profesjonell setting.
+Arbeidsmetoden min kjennetegnes av struktur, nøyaktighet og samarbeidsevne. Jeg har tidligere hatt roller innen **kundeservice**, **valgavvikling** og **eksamensgjennomføring**, hvor jeg har fått utvikle ferdigheter i ansvarshåndtering, prosedyrefølge og det å levere under press.
+
+🎯 **Motivert for nye utfordringer** innen økonomi, dataanalyse og teknologi – og alltid på utkikk etter muligheter for å utvikle meg videre i et profesjonelt og dynamisk miljø.
+
+📂 Her på GitHub deler jeg prosjekter og eksperimenter relatert til:
+- Dataanalyse og visualisering
+- Finansielle modeller
+- Statistisk programmering
+- Automatisering i økonomiske prosesser
+
+Ta gjerne kontakt eller følg med på det jeg jobber med!
+
+---
